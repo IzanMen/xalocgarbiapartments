@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /404
+
+Sitemap: https://xn--xaloc-garb-apartaments-6bc.es/sitemap.xml
